@@ -10,5 +10,5 @@ This game is build to showcase following skills in C#
   -  UI
 
 Play the Game Here
-  -  https://anil131998.github.io/2DPingPong/
+  -  [2D Ping Pong - GitHub Page](https://anil131998.github.io/2DPingPong/)
   -  
