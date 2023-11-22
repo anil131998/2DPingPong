@@ -1,4 +1,4 @@
-# 2D Ping Pong  -  https://anil131998.github.io/2DPingPong/
+# 2D Ping Pong  -  [Play Here](https://anil131998.github.io/2DPingPong/ "2D Ping Pong")
 A basic 2d ping pong game.
 This was build in Unity Engine and C#.
 
